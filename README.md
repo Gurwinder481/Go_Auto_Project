@@ -3,7 +3,7 @@ Go_Auto Project
 Best Selling Region(clustering): Edmonton
 
 Project Overview
-his project analyzes the Go Auto dataset to identify the best-selling region and extract valuable sales insights. Key steps include handling missing values, exploring trends, and visualizing data with maps to understand regional performance. As part of my Machine Learning program, I focus on data cleaning, exploration, and visualization techniques.
+project analyzes the Go Auto dataset to identify the best-selling region and extract valuable sales insights. Key steps include handling missing values, exploring trends, and visualizing data with maps to understand regional performance. As part of my Machine Learning program, I focus on data cleaning, exploration, and visualization techniques.
 
 Key Objectives:
 
